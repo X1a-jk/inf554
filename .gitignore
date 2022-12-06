@@ -1,6 +1,9 @@
 # Ignore We_models folder
 We_models/
 
+# Ignore data folder
+data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
