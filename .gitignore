@@ -4,6 +4,12 @@ We_models/
 # Ignore data folder
 data/
 
+# Ignore fig folder
+fig/
+
+# Ignore tmp folder
+tmp/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
