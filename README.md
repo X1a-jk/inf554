@@ -43,7 +43,7 @@ The environment is also saved in the environment.yaml, which can be directly imp
 # How to run the file 
 There are three jupyter notebooks, different feature embeddings and network structures are applied in each of them
 
-projet.ipynb: For the hashtag features, the length of their corresponding list is used as the feature and a net with two FC layers is trained.
+projet.ipynb: For the hashtag features, the length of their corresponding list is used as the feature and a net with two FC layers is trained, this is the early version of the project witch is then improved. 
 project_vec_lstm.ipynb: For the hashtag features, we have applied the embedding algorithm to the contents, and a net with LSTM layers is trained.
 project_vec.ipynb: For the hashtag features, we have applied the embedding algorithm to the contents, and a net with convolution layers is trained.
 
